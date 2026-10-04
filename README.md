@@ -6,7 +6,7 @@ Ce dépôt public contient les installateurs Windows signés, leurs signatures e
 les consignes de livraison. Le code source, le suivi du travail, les dossiers
 hospitaliers et les clés privées restent hors de ce dépôt.
 
-La livraison actuelle est **[NEGDRUGS 0.4.2](https://github.com/azempain/Negdrugs-releases/releases/tag/v0.4.2)**,
+La livraison actuelle est **[NEGDRUGS 0.4.3](https://github.com/azempain/Negdrugs-releases/releases/tag/v0.4.3)**,
 autorisée par le propriétaire avec une **dérogation limitée à cette version**.
 Mme Neolla coordonne l'installation sur les postes gérés. Les exercices exacts
 de mise à niveau/récupération, la confiance de chaque poste, la garde des clés hors
@@ -22,7 +22,7 @@ Conservez le profil Windows, les données et une sauvegarde chiffrée complète.
 La première mise à niveau manuelle ajoute le panneau facultatif. Aucun compte
 GitHub n'est nécessaire. La recherche manuelle reste disponible avant connexion ;
 les recherches automatiques, si activées, ont lieu au démarrage et toutes les six
-heures. Une recherche réussie en 0.4.2 sans version plus récente affiche en vert
+heures. Une recherche réussie en 0.4.3 sans version plus récente affiche en vert
 **« Vous utilisez la dernière version. »**. Une version plus récente affiche
 l'icône bleue : choisissez Télécharger la mise à jour, enregistrez le travail,
 puis Redémarrer et mettre à jour. Un échec ne confirme jamais la dernière version.
@@ -38,7 +38,7 @@ This public repository holds signed Windows installers, signatures and delivery
 instructions. Source, work tracking, hospital records and private keys stay out
 of this repository.
 
-The current delivery is **[NEGDRUGS 0.4.2](https://github.com/azempain/Negdrugs-releases/releases/tag/v0.4.2)**,
+The current delivery is **[NEGDRUGS 0.4.3](https://github.com/azempain/Negdrugs-releases/releases/tag/v0.4.3)**,
 authorized by the owner under a **one-release exception**. Mme Neolla coordinates
 managed-PC installation. Exact upgrade/recovery drills, per-machine trust,
 off-device key custody, broader Phase 1, finance/operational sign-off and #314
@@ -52,7 +52,7 @@ profile, data and a complete encrypted backup.
 
 The first manual upgrade adds the optional updater. No GitHub account is needed.
 Manual checks are available before sign-in; enabled automatic checks run at launch
-and every six hours. A successful 0.4.2 check with no newer release shows a green
+and every six hours. A successful 0.4.3 check with no newer release shows a green
 **“You're using the latest version.”** notice. A newer release shows the blue icon:
 choose Download update, save work, then Restart and update. A failed check never
 confirms the latest version. Signature checks and runtime recovery stay mandatory;
@@ -63,4 +63,6 @@ no forced restart. Hospital workflows remain offline.
 
 The preceding 0.4.1 controlled draft is preserved and visible only to maintainers
 with repository write access. Temporary draft links can return 404 or change.
-Use the published 0.4.2 link above for staff delivery.
+Use the published 0.4.3 link above for staff delivery.
+
+La version publiée 0.4.2 reste disponible. / Published 0.4.2 remains available.
